@@ -1,0 +1,12 @@
+int x  = 27;
+print(x);
+int y = 81;
+print(y);
+int z = x + y;
+if (z > 0) {
+    print(z);
+} elif (z = 0) {
+    print(0);
+} else {
+    print(x + y + z);
+}
